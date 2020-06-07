@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 ##################################################################
 #Load Data#
 ##################################################################
-df = pd.read_csv("E:\Downlload\Terra.ai Train.csv")
+df = pd.read_csv("E:\Downlload\Customer Lifetime Value Train.csv")
 df
 
 ##################################################################
