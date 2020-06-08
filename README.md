@@ -32,6 +32,10 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 
 5- **Removing Multicollinearity**, Model Re-evaluation and Assumptions Validation
 
+## Details of Variables
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Details%20of%20Variables.png)
+
 ## OLS REGRESSION MODEL OUTPUT 
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/OLS%20Rgression%20Results.png)
@@ -56,37 +60,69 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/EmploymentStatus%20vs%20Policy_type.png)
 
 ### From this tabulation our insight will be 
-             (1) 
-             (2) 
+             (1) Most prefered or Taken Policy Type for all five categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are Employed People
 ###############################################################################################
 ## Employed_People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Employed_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are Employed and  Married People
 ###############################################################################################
 ## UnEmployed_People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are UnEmployed and  Single People
 ###############################################################################################
 ## Employed Male People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Employed_Male_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are Employed and Married Male People
 ###############################################################################################
 ## Employed FeMale People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Employed_FeMale_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are Employed and Married FeMale People
 ###############################################################################################
 ## UnEmployed Male People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_Male_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are UnEmployed and Single Male People
 ###############################################################################################
 ## UnEmployed FeMale People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_FeMale_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all three categories is Personal Auto Policy
+             (2) In all three Categories more Policy takers are UnEmployed and Single FeMale People
 ###############################################################################################
 ## Married People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Married_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all five categories is Personal Auto Policy
+             (2) In all five Categories more Policy takers are Married and Employed People
 ###############################################################################################
 ## Married Male People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Married_Male_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all five categories is Personal Auto Policy
+             (2) In all five Categories more Policy takers are Married and Employed Male People
 ###############################################################################################
 ## Married FeMale People vs Policy_type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Married_FeMale_People%20vs%20Policy_type.png)
+
+### From this tabulation our insight will be 
+             (1) Most prefered or Taken Policy Type for all five categories is Personal Auto Policy
+             (2) In all five Categories more Policy takers are Married and Employed FeMale People
 ###############################################################################################
-
-
-
-
