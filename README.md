@@ -32,7 +32,7 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 
 5- **Removing Multicollinearity**, Model Re-evaluation and Assumptions Validation
 
-## Details of Variables
+## Details of Variables  [Response Variable ==> Customer Life Time Value]
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Details%20of%20Variables.png)
 
