@@ -34,28 +34,8 @@ Heroku App Link 2 : https://customerlifetimevaluepred.herokuapp.com/
 
 ## OLS REGRESSION MODEL OUTPUT 
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/Screenshot%20(109).png)
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/OLS%20Rgression%20Results.png)
 
-# EDA VISUALIZATIONS
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Employed_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/EmploymentStatus%20vs%20Policy_type.png)
-
+# Sample EDA VISUALIZATIONS
+#### Gender_vs_Policy_tye
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Gender%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Marital_status%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Married_FeMale_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Married_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_FeMale_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_FeMale_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_Male_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnEmployed_People%20vs%20Policy_type.png)
-
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/UnMarried_People%20vs%20Policy_type.png)
