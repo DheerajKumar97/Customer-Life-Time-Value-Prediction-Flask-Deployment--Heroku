@@ -37,13 +37,13 @@ Heroku App Link 2 : https://customerlifetimevaluepred.herokuapp.com/
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/OLS%20Rgression%20Results.png)
 
 # Sample EDA VISUALIZATIONS
-################################################################################
+####################################################################################################
 ## Gender__vs__Policy Type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Gender%20vs%20Policy_type.png)
-################################################################################
+####################################################################################################
 ## Marital Status__vs__Policy Type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Marital_status%20vs%20Policy_type.png)
-################################################################################
+####################################################################################################
 ## Employment Status__vs__Policy Type
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/EmploymentStatus%20vs%20Policy_type.png)
-################################################################################
+####################################################################################################
