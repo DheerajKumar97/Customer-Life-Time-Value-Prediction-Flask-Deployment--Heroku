@@ -4,8 +4,10 @@
 
 Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 
-### This project is designed to predict the CUSTOMER LIFE TIME VALUE  using Regression Analysis with Python, FLASK, HTML, SQL 
-### A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.
+## PROJECT GOAL
+
+#### This project is designed to predict the CUSTOMER LIFE TIME VALUE  using Regression Analysis with Python, FLASK, HTML, SQL 
+#### A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.
 
 
 # The Python file has following sections:
@@ -136,3 +138,21 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot%20empstatus.png)
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot%20maritalstatus.png)
+
+## Histogram Analysis
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%201.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%202.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/hist%203.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar1%20total%20cliam%20vs%20education.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar2%20total%20cliam%20vs%20Gender.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar3%20total%20cliam%20vs%20empstatus.png)
+
+
+
+
