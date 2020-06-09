@@ -129,3 +129,10 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
              (1) Most prefered or Taken Policy Type for all five categories is Personal Auto Policy
              (2) In all five Categories more Policy takers are Married and Employed FeMale People
 #############################################################################################
+## Scatter Plot Analysis
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot%20empstatus.png)
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/clt%20vs%20tca%20scatterplot%20maritalstatus.png)
