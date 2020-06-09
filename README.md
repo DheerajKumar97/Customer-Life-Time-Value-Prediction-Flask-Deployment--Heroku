@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/CLV.jpg)
+
 # CUSTOMER LIFE TIME VALUE PREDICTION
 
 Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
@@ -36,6 +38,10 @@ Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 ## OLS REGRESSION MODEL OUTPUT 
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/OLS%20Rgression%20Results.png)
+
+## DEPLOYMENT OUTPUT 
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Screenshot%20(111).png)
 
 # Sample EDA VISUALIZATIONS
 ###############################################################################################
