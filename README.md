@@ -1,9 +1,6 @@
-# Customer-Life-Time-Value-Prediction
+# CUSTOMER LIFE TIME VALUE PREDICTION
 
 Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
-
-
-# CUSTOMER LIFE TIME VALUE PREDICTION
 
 ### This project is designed to predict the CUSTOMER LIFE TIME VALUE PREDICTION using Regression Analysis with Python, FLASK, HTML, SQL 
 ### A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.
