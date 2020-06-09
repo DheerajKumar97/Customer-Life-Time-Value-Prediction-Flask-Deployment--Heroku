@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/CLV.jpg)
 
-# <html color = 'red'>CUSTOMER LIFE TIME VALUE PREDICTION</html>
+#  CUSTOMER LIFE TIME VALUE PREDICTION
 
 Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
 
