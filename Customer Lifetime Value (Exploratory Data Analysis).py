@@ -15,7 +15,15 @@ warnings.filterwarnings("ignore")
 ##################################################################
 #Load Data#
 ##################################################################
-df = pd.read_csv("E:\Downlload\Customer Lifetime Value Train.csv")
+server = 'DESKTOP-GQDTTAA'
+db = 'practice'
+
+conn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+db+';Trusted_Connection==yes')
+
+sql ="""
+SELECT * FROM CustomerLifeTimeValue
+"""
+df = pd.read_sql(sql,conn)
 df
 
 ##################################################################
