@@ -2,7 +2,7 @@
 
 #  CUSTOMER LIFE TIME VALUE PREDICTION
 
-Heroku App Link 1 : https://customerlifetimevaluepred.herokuapp.com/
+Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 
 ## PROJECT GOAL
 
