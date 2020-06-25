@@ -152,3 +152,4 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar2%20total%20cliam%20vs%20Gender.png)
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/bar3%20total%20cliam%20vs%20empstatus.png)
+
