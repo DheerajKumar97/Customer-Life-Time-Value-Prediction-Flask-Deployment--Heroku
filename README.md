@@ -72,7 +72,7 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 
 # License
 
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/P4.jpg)
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/upload)
 <br>
 CopyRight 2020 DHEERAJ KUMAR
 
