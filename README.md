@@ -6,7 +6,7 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 
 ## DEPLOYMENT OUTPUT 
 
-![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Screenshot%20(111).png)
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/Dep.png)
 
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
