@@ -63,6 +63,7 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 ## OLS REGRESSION MODEL OUTPUT 
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/OLS%20Rgression%20Results.png)
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/fit.png)
 
 # Technologies Used
 
