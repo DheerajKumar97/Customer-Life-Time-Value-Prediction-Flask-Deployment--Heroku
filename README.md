@@ -64,7 +64,7 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/res.png)
 
-## Data Points vs Fitted Lines
+## Data Points vs Fitted Line
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/fit.png)
 
