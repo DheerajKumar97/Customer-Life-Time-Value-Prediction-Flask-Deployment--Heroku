@@ -68,6 +68,10 @@ Heroku App Link  : https://customerlifetimevaluepred.herokuapp.com/
 
 ![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/fit.png)
 
+## Actual Points vs Fitted Points
+
+![Alt Text](https://github.com/DheerajKumar97/Customer-Life-Time-Value-Prediction-Flask-Deployment--Heroku/blob/master/CLTP%20Analysis%20Output/ACT.png)
+
 # Technologies Used
 
 ![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p1.jpg)
